@@ -1,13 +1,13 @@
  
 
-  👋 Hi, I’m Amit Pandey  
-  - Currently, I Am  Working As FullStack Web Developer .
-- 👨‍💻 Fullstack Software Developer passionate about creating interactive and user-friendly web experiences.  
-- 🌱 Currently Learning: Backend technologies to become a proficient Full Stack Developer.  
-- 🤝 Looking to Collaborate On: Exciting web development projects, open-source contributions, and innovative ideas.  
-- 📫 How to Reach Me:
-   -📞 Phone: +91-9696717305
-   - 📧Email : pandeyamit854602@gmail.com 
+Hi, I’m Amit Pandey
+💼 I work as a Software Developer & Digital Marketing Specialist, helping businesses get more clients through website development and result-driven marketing strategies.
+👨‍💻 Full Stack Software Developer passionate about building fast, responsive, and user-friendly web applications.
+🚀 I help brands grow online by combining modern web development skills with digital marketing expertise.
+🤝 Open to collaborating on web development projects, business websites, startups, and innovative ideas.
+🌐 Portfolio: https://www.devlo.in
+📫 How to Reach Me:
+📞 Phone: +91-9696717305
  
 
 
